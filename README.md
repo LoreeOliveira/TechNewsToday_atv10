@@ -1,20 +1,28 @@
-🚀 TechNews Today | Portal de Tecnologia ⚡
-⚡ O seu portal de notícias tech — moderno, fluido e cheio de estilo!
+# 🚀 Tech News Today | Portal de Tecnologia ⚡
 
-Projeto incrível desenvolvido em HTML e CSS para encarar o desafio do Módulo 10a. O resultado? Um site responsivo, visualmente marcante e recheado de efeitos modernos! 💻✨
+> ⚡ *O seu portal de notícias tech — moderno, fluido e cheio de estilo!*
 
-🔥 Destaques do Projeto
-💎 Header Glassmorphism: Cabeçalho fixo com efeito translúcido (vidro fosco) e título em gradiente.
+O **Tech News Today** é um portal de tecnologia super dinâmico e elegante, criado durante o desafio do **Módulo 10a**. O projeto entrega uma experiência de leitura incrível combinando um visual futurista, animações suaves e navegação simples! 💻✨
 
-📰 Card Interativo: Artigo em destaque com efeito ao passar o mouse (hover) e aba expansível para leitura rápida.
+---
 
-🎥 Área de Vídeo: Player integrado do YouTube pronto para o play!
+## 🔥 Destaques do Projeto
 
-📩 Newsletter Estilizada: Formulário completo com seleções, checkboxes e botões animados.
+- 💎 **Header Glassmorphism:** Cabeçalho fixo com visual de vidro fosco e logo em gradiente vibrante.
+- 📰 **Card Interativo:** Artigo em destaque com efeito *hover* ao passar o mouse e texto expansível para leitura rápida.
+- 🎥 **Vídeos Integrados:** Player de vídeo do YouTube pronto para o play.
+- 📩 **Newsletter Estilizada:** Formulário de inscrição com campos customizados e botão animado.
+- 📱 **100% Responsivo:** Layout inteligente com **CSS Grid** que se adapta perfeitamente do celular ao monitor.
 
-📱 100% Responsivo: Visual impecável do celular ao monitor ultrawide com CSS Grid.
+---
 
-🛠️ Tecnologias
-📄 HTML — Estruturação limpa e organizando cada elemento da página.
+## 🛠️ Tecnologias
 
-🎨 CSS — Responsividade (Grid), gradientes marcantes, animações e estilo Glassmorphism.
+- 📄 **HTML** — Estruturação limpa e organizada.
+- 🎨 **CSS** — Layout em Grid, estilo *Glassmorphism*, gradientes marcantes e animações.
+
+---
+
+## 🌐 Como Acessar
+
+Para visualizar e navegar pelo projeto rodando na prática, basta acessar através dos **links disponíveis acima**! 🎉
